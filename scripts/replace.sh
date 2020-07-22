@@ -15,3 +15,6 @@ sed -i "s#$org#$new#g" ../quit/letter.md
 sed -i "s#$org#$new#g" macros.py
 
 
+sed -i "s#$org#$new#g" /nogfw/README.md
+
+
