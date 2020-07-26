@@ -41,7 +41,7 @@ def get_links():
 	idx_file = '/usr/local/nginx/html/videos/news/readme.txt'
 	site_base_url = "http://158.247.193.181:10000/videos/news/"
 	lines = open(idx_file, "r").read().splitlines()
-	for line in lines[1:4]:
+	for line in lines[4:1]:
 		cols = line.split(',')
 		url_path = site_base_url + cols[0] + '.html'
 		title = cols[1]
