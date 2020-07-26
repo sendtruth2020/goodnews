@@ -45,7 +45,7 @@ def get_links():
 		cols = line.split(',')
 		url_path = site_base_url + cols[0] + '.html'
 		title = cols[1]
-		md_link = "#### [%s](%s)\n\n" % (url_path, title)
+		md_link = "#### [%s](%s)\n\n" % (title, url_path)
 		result = result + md_link
 	return result
 
