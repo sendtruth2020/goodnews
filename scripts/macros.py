@@ -3,6 +3,8 @@
 
 git_base_url = "https://github.com/begood0513/goodnews/blob/master/pages"
 
+site_base_url = "http://158.247.193.181:10000/videos/news/"
+
 head = '####  [法轮功真相](../../../../basic/blob/master/README.md) &nbsp;|&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md) \n\n'
 #'#### [💌武汉肺炎来势凶凶， 我要抛弃中共邪党保命](https://github.com/begood0513/goodnews/blob/master/quit/letter.md)\n\n'
 
@@ -12,14 +14,9 @@ links = "\n\n"
 links += "#### [ 💌 疫情象最后通牒 让世界远离中共](https://github.com/begood0513/goodnews/blob/master/pages/recommended/406691.md) &nbsp; "
 links += "| &nbsp;[退出中共组织 良心的选择](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) \n\n"
 links += "#### [ 🎬  翻墙必看视频（八九六四、法轮功、709大抓捕、香港反送中 ...）](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md)\n\n"
-links += "#### [ 🎬 《红墙的记忆》- 4.25中南海万人和平上访纪实 ](http://158.247.193.181:10000/videos/legend/425.html)\n\n"
-links += "#### [ 🎬 《永恒的五十分钟》（长春电视插播事件改编）](http://158.247.193.181:10000/videos/news/ComingForYou-2.html)\n\n"
-links += "#### [ 🎬  美國務院首次為法輪功發聲明意味著什麼 ](http://158.247.193.181:10000/videos/news/rdhd1.html) &nbsp; "
-links += "| &nbsp;[美国驻华大使馆网站相关新闻](https://china.usembassy-china.org.cn/zh/21st-anniversary-of-the-prc-governments-persecution-of-falun-gong-zh/) \n\n"
 links += "#### [ 🎬 《伪火》- 天安门自焚真相](http://158.247.193.181:10000/videos/blog/weihuo.html)&nbsp; "
 links += "| &nbsp;[《六月黑夜》- 六四天安门大屠杀](http://158.247.193.181:10000/videos/88/kent.html)\n\n"
 links += "#### 网站代理：[大纪元新闻网](http://158.247.194.169:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://158.247.194.169:8808/gb/) &nbsp;|&nbsp; [YouTube热门频道](http://158.247.193.181/youtube.html)\n\n"
-links += "#### [武汉肺炎：为什么感染率相差100倍！](https://github.com/begood0513/goodnews/blob/master/pages/recommended/407622.md)\n\n"
 
 tail = ""
 
@@ -38,4 +35,20 @@ def write_page(channel, f_name, f_path, title, link, content):
 	fh = open(f_path, 'w')
 	fh.write(body)
 	fh.close()
+
+
+def get_links():
+	result = ""
+	idx_file = '/usr/local/nginx/html/videos/news/readme.txt'
+	lines = open(idx_file, "r").read().splitlines()
+	for line in lines[1:4]:
+		cols = line.split(',')
+		url_path = site_base_url + cols[0] + '.html'
+		title = cols[1]
+		md_link = "#### [%s](%s)\n\n" % (url_path, title)
+		result = result + md_link
+	return result
+
+
+links += get_links()
 
