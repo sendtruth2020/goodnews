@@ -3,7 +3,6 @@
 
 git_base_url = "https://github.com/begood0513/goodnews/blob/master/pages"
 
-site_base_url = "http://158.247.193.181:10000/videos/news/"
 
 head = '####  [法轮功真相](../../../../basic/blob/master/README.md) &nbsp;|&nbsp; [九评共产党](../../../../9ping.md/blob/master/README.md) &nbsp;|&nbsp; [解体党文化](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [共产主义的终极目的](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [魔鬼在统治我们的世界](../../../../mgztzwmdsj.md/blob/master/README.md) \n\n'
 #'#### [💌武汉肺炎来势凶凶， 我要抛弃中共邪党保命](https://github.com/begood0513/goodnews/blob/master/quit/letter.md)\n\n'
@@ -40,6 +39,7 @@ def write_page(channel, f_name, f_path, title, link, content):
 def get_links():
 	result = ""
 	idx_file = '/usr/local/nginx/html/videos/news/readme.txt'
+	site_base_url = "http://158.247.193.181:10000/videos/news/"
 	lines = open(idx_file, "r").read().splitlines()
 	for line in lines[1:4]:
 		cols = line.split(',')
