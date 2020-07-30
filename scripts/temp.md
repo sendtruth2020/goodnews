@@ -2,18 +2,18 @@
 
 ## 自救专区
 
- ### &nbsp;&nbsp;&nbsp;&nbsp; [今年两会开幕之时，北京一下黑如晚上8，9点钟，电闪雷鸣❗️ 天灭中共非虚言，赶快自救保平安🍎 快快快 📩](/quit/letter.md)
+ ### &nbsp;&nbsp;&nbsp;&nbsp; [7月大夏天，北京、上海下雪、雷暴；自由国家开始制裁中共党员及家属；美国遣返几十万军方背景的留学生和研究人员❗️ 天灭中共非虚言，赶快自救保平安、报前程🍎 快快快 📩](/quit/letter.md)
  ### &nbsp;&nbsp;&nbsp;&nbsp; [每日自救选播](https://github.com/gfw-breaker/tuidang/blob/master/README.md)
 
 ## 推荐文章专区
 
-### &nbsp;&nbsp;&nbsp;&nbsp;    [武汉坠楼护士生前留言曝光 曾曝抗疫黑幕](/pages/recommended/n12293305.md?t=07301331) &nbsp;|&nbsp;    [【内幕】中共如何招间谍 窃F-35机密](/pages/recommended/n12287868.md?t=07301331)
-### &nbsp;&nbsp;&nbsp;&nbsp;    [声援港人 欧盟27国联合反制港版国安法](/pages/recommended/a102905749.md?t=07301331) &nbsp;|&nbsp;    [共产党领袖们为什么抛弃了共产党？](/pages/recommended/a102902572.md?t=07301331)
-### &nbsp;&nbsp;&nbsp;&nbsp;    [美澳联合声明聚焦八议题 蓬佩奥赞澳洲抗共](/pages/recommended/n12290485.md?t=07301331) &nbsp;|&nbsp;    [【禁闻】淹水60天 中国夏粮产量还可创新高？](/pages/recommended/a102903999.md?t=07301331)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [习近平被指是中共灭亡的“总加速师”](/pages/recommended/n12284930.md?t=07301331) &nbsp;|&nbsp;    [习近平访四平 学者:错误理解历史将把中国带入危险](/pages/recommended/a102903040.md?t=07301331)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [中共军人唐娟被关押加州监狱 周一出庭应讯](/pages/recommended/n12283949.md?t=07301331) &nbsp;|&nbsp;    [周恩来手下的超级间谍金无怠之死](/pages/recommended/n1747523.md?t=07301331)  
-### &nbsp;&nbsp;&nbsp;&nbsp;    [英拟砍每年7千万英镑对华援助 网友:从来不知道](/pages/recommended/a102902607.md?t=07301331) &nbsp;|&nbsp;    [任志强被指遭“政治迫害” 他都说了些啥？](/pages/recommended/n12281596.md?t=07301331) 
-### &nbsp;&nbsp;&nbsp;&nbsp;    [隐藏中领馆的中共女谍被捕 中共被迫弃卒保车](/pages/recommended/a102902103.md?t=07301331) &nbsp;|&nbsp;    [蓬佩奥：情报显示 谭德塞已被中共收买](/pages/recommended/n12278261.md?t=07301331)  &nbsp;|&nbsp; [>> 更多 <<](indexes/_编辑推荐文章.md?ts=02011213)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [武汉坠楼护士生前留言曝光 曾曝抗疫黑幕](/pages/recommended/n12293305.md?t=07301404) &nbsp;|&nbsp;    [【内幕】中共如何招间谍 窃F-35机密](/pages/recommended/n12287868.md?t=07301404)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [声援港人 欧盟27国联合反制港版国安法](/pages/recommended/a102905749.md?t=07301404) &nbsp;|&nbsp;    [共产党领袖们为什么抛弃了共产党？](/pages/recommended/a102902572.md?t=07301404)
+### &nbsp;&nbsp;&nbsp;&nbsp;    [美澳联合声明聚焦八议题 蓬佩奥赞澳洲抗共](/pages/recommended/n12290485.md?t=07301404) &nbsp;|&nbsp;    [【禁闻】淹水60天 中国夏粮产量还可创新高？](/pages/recommended/a102903999.md?t=07301404)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [习近平被指是中共灭亡的“总加速师”](/pages/recommended/n12284930.md?t=07301404) &nbsp;|&nbsp;    [习近平访四平 学者:错误理解历史将把中国带入危险](/pages/recommended/a102903040.md?t=07301404)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [中共军人唐娟被关押加州监狱 周一出庭应讯](/pages/recommended/n12283949.md?t=07301404) &nbsp;|&nbsp;    [周恩来手下的超级间谍金无怠之死](/pages/recommended/n1747523.md?t=07301404)  
+### &nbsp;&nbsp;&nbsp;&nbsp;    [英拟砍每年7千万英镑对华援助 网友:从来不知道](/pages/recommended/a102902607.md?t=07301404) &nbsp;|&nbsp;    [任志强被指遭“政治迫害” 他都说了些啥？](/pages/recommended/n12281596.md?t=07301404) 
+### &nbsp;&nbsp;&nbsp;&nbsp;    [隐藏中领馆的中共女谍被捕 中共被迫弃卒保车](/pages/recommended/a102902103.md?t=07301404) &nbsp;|&nbsp;    [蓬佩奥：情报显示 谭德塞已被中共收买](/pages/recommended/n12278261.md?t=07301404)  &nbsp;|&nbsp; [>> 更多 <<](indexes/_编辑推荐文章.md?ts=02011213)
 
 ##  视频专区
 ### &nbsp;&nbsp;&nbsp;&nbsp; [你想看的视频，不想看的视频都在这儿😉](https://github.com/begood0513/goodnews/blob/master/quit/videos.md)
@@ -31,9 +31,6 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp; 希望之声SOH &nbsp;-&nbsp; [历史](indexes/H历史.md?t=04201801) &nbsp;|&nbsp; [文化](indexes/H文化.md?t=04201801) &nbsp;|&nbsp; [个人评论](indexes/H个人评论.md?t=04201801)  &nbsp;|&nbsp; [近期热点](indexes/H近期热点.md?t=04201801) &nbsp;|&nbsp; [财经新闻](indexes/H财经新闻.md?t=04201801) &nbsp;|&nbsp; [港台新闻](indexes/H港台新闻.md?t=04201801) &nbsp;|&nbsp; [中国新闻](indexes/H中国新闻.md?t=04201801) &nbsp;|&nbsp; [北美新闻](indexes/H北美新闻.md?t=04201801)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/S看大陆.md?t=02032102) &nbsp;|&nbsp; [看官场](indexes/S看官场.md?t=02032102) &nbsp;|&nbsp; [看民生](indexes/S看民生.md?t=02032102)  &nbsp;|&nbsp; [看博谈](indexes/S看博谈.md?t=02032102) &nbsp;|&nbsp; [看财经](indexes/S看财经.md?t=02032102) &nbsp;|&nbsp; [看史海](indexes/S看史海.md?t=02032102) &nbsp;|&nbsp; [看文化](indexes/S看文化.md?t=02032102) &nbsp;|&nbsp; [看生活](indexes/S看生活.md?t=02032102) &nbsp;|&nbsp; [看世界](indexes/S看世界.md?t=02032102)
-
-### &nbsp;&nbsp;&nbsp;&nbsp; 微信号：
-<div align=center><img src="/quit/weixinKeFu.jpeg" height="140"></div>
 
 #### 在浏览器中输入短网址 或使用微信、支付宝等二维码工具扫描二维码打开页面, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开（请不要使用QQ或360浏览器）
 
