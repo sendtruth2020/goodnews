@@ -11,7 +11,7 @@ menu = "#### [首页](../../README.md)  &nbsp;&nbsp;|&nbsp;&nbsp; _channellink_ 
 
 links = "\n\n"
 links += "#### [ 💌 疫情象最后通牒 让世界远离中共](https://github.com/begood0513/goodnews/blob/master/pages/recommended/406691.md) &nbsp; "
-links += "| &nbsp;[退出中共组织 良心的选择](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) \n\n"
+links += "| &nbsp;[退出中共组织，良心的选择、前途的选择](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) \n\n"
 links += "#### [ 🎬  翻墙必看视频（八九六四、法轮功、709大抓捕、香港反送中 ...）](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md)\n\n"
 links += "#### [ 🎬 《伪火》- 天安门自焚真相](http://158.247.198.80:10000/videos/blog/weihuo.html)&nbsp; "
 links += "| &nbsp;[《六月黑夜》- 六四天安门大屠杀](http://158.247.198.80:10000/videos/88/kent.html)\n\n"
