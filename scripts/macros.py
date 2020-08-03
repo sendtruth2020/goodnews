@@ -13,9 +13,9 @@ links = "\n\n"
 links += "#### [ 💌 疫情象最后通牒 让世界远离中共](https://github.com/begood0513/goodnews/blob/master/pages/recommended/406691.md) &nbsp; "
 links += "| &nbsp;[退出中共组织，良心的选择、前途的选择](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) \n\n"
 links += "#### [ 🎬  翻墙必看视频（八九六四、法轮功、709大抓捕、香港反送中 ...）](https://github.com/gfw-breaker/banned-news1/blob/master/pages/link4.md)\n\n"
-links += "#### [ 🎬 《伪火》- 天安门自焚真相](http://141.164.63.187:10000/videos/blog/weihuo.html)&nbsp; "
-links += "| &nbsp;[《六月黑夜》- 六四天安门大屠杀](http://141.164.63.187:10000/videos/88/kent.html)\n\n"
-links += "#### 网站代理：[大纪元新闻网](http://158.247.194.169:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://158.247.194.169:8808/gb/) &nbsp;|&nbsp; [YouTube热门频道](http://141.164.63.187/youtube.html)\n\n"
+links += "#### [ 🎬 《伪火》- 天安门自焚真相](http://158.247.206.97:10000/videos/blog/weihuo.html)&nbsp; "
+links += "| &nbsp;[《六月黑夜》- 六四天安门大屠杀](http://158.247.206.97:10000/videos/88/kent.html)\n\n"
+links += "#### 网站代理：[大纪元新闻网](http://158.247.194.169:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://158.247.194.169:8808/gb/) &nbsp;|&nbsp; [YouTube热门频道](http://158.247.206.97/youtube.html)\n\n"
 
 tail = ""
 
@@ -39,7 +39,7 @@ def write_page(channel, f_name, f_path, title, link, content):
 def get_links():
 	result = ""
 	idx_file = '/usr/local/nginx/html/videos/news/readme.txt'
-	site_base_url = "http://141.164.63.187:10000/videos/news/"
+	site_base_url = "http://158.247.206.97:10000/videos/news/"
 	lines = open(idx_file, "r").read().splitlines()
 	for line in lines[1:4][::-1]:
 		cols = line.split(',')
