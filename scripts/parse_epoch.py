@@ -63,7 +63,7 @@ def get_content(orgText, link):
 			del img['height']
 			post = '<div>' + img.prettify().encode('utf-8') + \
 				caption.prettify().encode('utf-8') + '</div><hr/>' + \
-				macros.links
+				macros.get_links()
 				#'\n\n#### [ 💌  武汉肺炎来势凶凶， 如何自救：“不信一万就信万一”](https://github.com/begood0513/goodnews/blob/master/quit/letter.md)\n\n'
 
 	#.replace('<a href', '<span href').replace('</a>', '</span>') \

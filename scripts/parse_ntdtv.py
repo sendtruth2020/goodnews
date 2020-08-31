@@ -12,7 +12,7 @@ channel = sys.argv[1]
 channel_url = sys.argv[2]
 
 index_page = '' + macros.head
-links = macros.tail
+#links = macros.tail
 
 
 def get_content(url):
@@ -26,7 +26,7 @@ def get_content(url):
 		link.decompose()
 	post_title = parser.find('div', attrs = {'class': 'featured_image'})
 	if post_title is None:
-		post_title = '<hr/>' + macros.links
+		post_title = '<hr/>' + macros.get_links()
 	else:
 		try:
 			post_title.find('a').unwrap()
@@ -34,7 +34,7 @@ def get_content(url):
 			pass
 		post_title = '<div>' + post_title.prettify().encode('utf-8') \
 			.replace('</figure>','</figure><br/>') + '</div><hr/>' + \
-			macros.links
+			macros.get_links()
 			#'\n\n#### [ 💌  武汉肺炎来势凶凶， 如何自救：“不信一万就信万一”](https://github.com/begood0513/goodnews/blob/master/quit/letter.md)\n\n'
 
 	post_content = parser.find('div', attrs = {'class': 'post_content'})

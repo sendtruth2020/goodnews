@@ -12,7 +12,7 @@ channel = sys.argv[1]
 xml_file = channel + '.xml'
 
 index_page = '' + macros.head
-links = macros.tail
+#links = macros.tail
 
 tree = ET.parse(xml_file)
 root = tree.getroot()
@@ -48,7 +48,7 @@ def get_content(link):
 			del img['width']
 			del img['height']
 			post = '<div>' + img.prettify().encode('utf-8') + \
-				caption.prettify().encode('utf-8') + '</div><hr/>' + macros.links
+				caption.prettify().encode('utf-8') + '</div><hr/>' + macros.get_links()
 
 	#.replace('<a href', '<span href').replace('</a>', '</span>') \
 	return (post + content)	\

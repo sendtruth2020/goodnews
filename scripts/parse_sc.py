@@ -23,7 +23,7 @@ def get_content(text, link):
 	for iframe in parser.find_all('iframe'):
 		iframe.decompose()
 	article = parser.find('div', attrs = {'class': 'article_right'})
-	links = '\n\n---\n\n' + macros.links 
+	links = '\n\n---\n\n' + macros.get_links()
 	return article.prettify().encode('utf-8') \
 				.replace('<div id="SC-22">', links) \
 				.replace('src="//img1.', 'src="https://img1.') \
