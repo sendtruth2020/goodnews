@@ -65,6 +65,8 @@ done < ../indexes/names.csv
 hot_page=../indexes/热点推荐.md
 echo > $hot_page
 while read line; do
+	fp=$(echo $line | sed 's#/blob/master##g')
+	echo $fp
 	link=$(echo $line | cut -d',' -f1)
 	title=$(echo $line | cut -d',' -f2)
 	echo -e "#### [$title](https://github.com/begood0513$link)" >> $hot_page
