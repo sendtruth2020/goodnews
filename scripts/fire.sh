@@ -67,9 +67,9 @@ echo > $hot_page
 while read line; do
 	link=$(echo $line | cut -d',' -f1)
 	fp=$(echo $link | sed 's#/blob/master##g')
-	echo $fp
 	title=$(echo $line | cut -d',' -f2)
 	echo -e "#### [$title](https://github.com/begood0513$link)" >> $hot_page
+	touch $fp
 done < /root/page_count/goodnews.hot
 
 ## add to git
