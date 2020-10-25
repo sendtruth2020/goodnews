@@ -14,9 +14,9 @@ menu = "#### [首页](../../README.md)  &nbsp;&nbsp;|&nbsp;&nbsp; _channellink_ 
 links = "\n\n"
 links += "#### [ 💌 疫情象最后通牒 让世界远离中共](https://github.com/begood0513/goodnews/blob/master/pages/recommended/406691.md) &nbsp; "
 links += "| &nbsp;[退出中共组织，良心的选择、前途的选择](https://github.com/begood0513/goodnews/blob/master/quit/letter.md) \n\n"
-links += "#### [ 🎬 《伪火》- 天安门自焚真相](http://128.199.5.249:10000/videos/blog/)&nbsp; "
-links += "| &nbsp;[《六月黑夜》- 六四天安门大屠杀](http://128.199.5.249:10000/videos/88/)\n\n"
-links += "#### [ 🎬  纪录片《红墙的记忆》（中南海万人和平上访纪实）](http://128.199.5.249:10000/videos/legend/425.html)\n\n"
+links += "#### [ 🎬 《伪火》- 天安门自焚真相](http://143.110.158.249:10000/videos/blog/)&nbsp; "
+links += "| &nbsp;[《六月黑夜》- 六四天安门大屠杀](http://143.110.158.249:10000/videos/88/)\n\n"
+links += "#### [ 🎬  纪录片《红墙的记忆》（中南海万人和平上访纪实）](http://143.110.158.249:10000/videos/legend/425.html)\n\n"
 links += "#### [ 🔥  禁书下载（政治、经济、人权、民主自由、文革、六四 ...）](https://github.com/gfw-breaker/books/blob/master/README.md)\n\n"
 links += "#### [ 🎬  翻墙必看视频（YouTube热门频道、网站代理、时事热点、历史事件 ...）](https://github.com/gfw-breaker/links/blob/master/good.md)\n\n"
 #links += "#### 网站代理：[大纪元新闻网](http://134.209.140.228:10080/gb/) &nbsp;|&nbsp; [新唐人电视台](http://134.209.140.228:8808/gb/)  &nbsp;|&nbsp; [YouTube热门频道](http://134.209.140.228/youtube.html) &nbsp;|&nbsp; [网门免翻墙](http://134.209.140.228:11000/show.aspx?name=ogHome)\n\n"
@@ -44,7 +44,7 @@ def write_page(channel, f_name, f_path, title, link, content):
 def get_links():
 	result = ""
 	idx_file = '/usr/local/nginx/html/videos/news/readme.txt'
-	site_base_url = "http://128.199.5.249:10000/videos/news/"
+	site_base_url = "http://143.110.158.249:10000/videos/news/"
 	lines = open(idx_file, "r").read().splitlines()
 	for line in random.sample(lines[1:13], 3):
 		cols = line.split(',')
