@@ -27,12 +27,13 @@ tail = ""
 def write_page(channel, f_name, f_path, title, link, content):
 	clink = '[{}](../../indexes/{}.md) '.format(channel, channel)
 	nmenu = menu.replace('_channellink_', clink)
+	jsdelivr = 'https://cdn.jsdelivr.net/gh/begood0513/goodnews/pages/' + channel + '/' + f_name
 	new_link = git_base_url + '/' + channel + '/' + f_name
 	body = '### ' + title
 	body += "\n------------------------\n\n" + nmenu + "\n\n" +  content
 	body += "\n<hr/>\n手机上长按并复制下列链接或二维码分享本文章：<br/>"
 	body += "\n" + new_link + " <br/>"
-	body += "\n<a href='" + new_link + "'><img src='" + new_link + ".png'/></a> <br/>"
+	body += "\n<a href='" + new_link + "'><img src='" + jsdelivr + ".png'/></a> <br/>"
 	body += "\n原文地址（需翻墙访问）：" + link + "\n"
 	body += "\n\n------------------------\n" + nmenu 
 	body += "\n<img src='http://gfw-breaker.win/goodnews/" + f_path[3:] + "' width='0px' height='0px'/>"
