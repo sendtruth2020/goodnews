@@ -22,7 +22,7 @@ while read line; do
 			python parse_epoch.py $channel $name $path "$title" $url
 		elif [[ $url =~ 'secretchina' ]]; then
 			python parse_sc.py $channel $name $path "$title" $url
-		elif [[ $url =~ 'mh-news' ]]; then
+		elif [[ $url =~ 'github.com' ]]; then
 			wget "$url?raw=true" -O $path
 		elif [[ $url == /* ]]; then
 			echo $title
