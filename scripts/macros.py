@@ -46,7 +46,7 @@ def get_links():
 	result = ""
 	idx_file = '/usr/local/nginx/html/videos/news/readme.txt'
 	site_base_url = "http://141.164.59.249:10000/videos/news/"
-	guide = '\n\n---\n#### [鉴于微信频繁屏蔽本项目内容，请微信用户请参考此教程绕过封锁](https://gitlab.com/lxm06041/info/-/raw/master/imgs/we.png)\n---\n\n'
+	guide = '\n\n---\n#### [鉴于微信频繁屏蔽本项目内容，请微信用户请参考此教程绕过封锁](https://gitlab.com/lxm0604/info/-/raw/master/imgs/we.png)\n---\n\n'
 	lines = open(idx_file, "r").read().splitlines()
 	for line in random.sample(lines[1:13], 3):
 		cols = line.split(',')
