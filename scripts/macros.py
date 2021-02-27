@@ -54,7 +54,7 @@ def get_links():
 		title = cols[1]
 		md_link = "#### [ 🔥 %s](%s)\n\n" % (title, url_path)
 		result = result + md_link
-	return links + result + guide
+	return links + result #+ guide
 
 
 
