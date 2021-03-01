@@ -1,10 +1,5 @@
 # <font color="#dd0000">最新新闻及疫情时刻更新，欢迎广传，请一起推广、做种。5大专区，传播真相，为中国尽一份力，因为只有真相能救中国! 本页面短网址 https://git.io/gnews</font>
 
-## 自救专区
-
- ### &nbsp;&nbsp;&nbsp;&nbsp; [7月大夏天，北京、上海下雪、雷暴；自由国家开始制裁中共党员及家属；美国遣返几十万军方背景的留学生和研究人员❗️ 天灭中共非虚言，赶快自救保平安、保前程🍎 快快快 📩](/quit/letter.md)
- ### &nbsp;&nbsp;&nbsp;&nbsp; [每日自救选播](https://github.com/gfw-breaker/tuidang/blob/master/README.md)
-
 ## 推荐文章专区
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;   recomm1 &nbsp;|&nbsp;   recomm2
