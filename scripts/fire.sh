@@ -55,9 +55,9 @@ done
 while read line; do
 	key=$(echo $line | cut -d',' -f1)
 	name=$(echo $line | cut -d',' -f2)
-	head -n 8 ../indexes/$key.md > tmp.md
-	echo "### [test](https://ok.ok)" >> tmp.md
-	sed -n '8,$p' ../indexes/$key.md >> tmp.md
+	sed -n '1,6p' ../indexes/$key.md > tmp.md
+	echo "### [油管热门频道 翻墙必看视频](http://159.65.108.143:81/youtube.html)" >> tmp.md
+	sed -n '6,$p' ../indexes/$key.md >> tmp.md
 	mv tmp.md ../indexes/$name.md
 done < ../indexes/names.csv
 
