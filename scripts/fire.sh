@@ -55,8 +55,9 @@ done
 while read line; do
 	key=$(echo $line | cut -d',' -f1)
 	name=$(echo $line | cut -d',' -f2)
-	cat links.txt > tmp.md
-	cat ../indexes/$key.md >> tmp.md
+	head -n 8 ../indexes/$key.md > tmp.md
+	echo "### [test](https://ok.ok)" >> tmp.md
+	sed -n '8,$p' ../indexes/$key.md >> tmp.md
 	mv tmp.md ../indexes/$name.md
 done < ../indexes/names.csv
 
