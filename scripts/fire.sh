@@ -58,6 +58,7 @@ while read line; do
 	sed -n '1,6p' ../indexes/$key.md > tmp.md
 	echo "#### [油管热门频道 翻墙必看视频](http://159.65.108.143:81/youtube.html)" >> tmp.md
 	sed -n '6,$p' ../indexes/$key.md >> tmp.md
+	echo "<img src='http://gfw-breaker.win/goodnews/$key.md' width='0px' height='0px'/>" >> tmp.md
 	mv tmp.md ../indexes/$name.md
 done < ../indexes/names.csv
 
