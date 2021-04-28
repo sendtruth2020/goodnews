@@ -33,3 +33,6 @@
 
 #### 联系邮箱：begood0513@gmail.com，在联系不上的时候，可以用hotmail向这个邮箱发信
 
+<img src='http://gfw-breaker.win/goodnews/indexes/home.md' width='0px' height='0px'/>
+
+
