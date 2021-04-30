@@ -74,6 +74,11 @@ while read line; do
 	touch $fp
 done < /root/page_count/goodnews.hot
 
+sed -n '1,4p' $hot_page > tmp.md
+echo "#### [油管热门频道 翻墙必看视频 新闻](http://95.179.203.213:81/youtube.html)" >> tmp.md
+sed -n '5,$p' $hot_page >> tmp.md
+mv tmp.md $hot_page
+
 ## add to git
 git add ../indexes/*
 git add ../pages/*
