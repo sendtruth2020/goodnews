@@ -1,7 +1,7 @@
 # <font color="#dd0000">最新新闻及疫情时刻更新，欢迎广传，请一起推广、做种。5大专区，传播真相，为中国尽一份力，因为只有真相能救中国! 本页面短网址 https://git.io/gnews</font>
 
 ## 推荐文章专区
-
+### [免翻墙看新闻项目新地址](https://github.com/easy2view/epoch-news/blob/master/README.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp;   recomm1 &nbsp;|&nbsp;   recomm2
 ### &nbsp;&nbsp;&nbsp;&nbsp;   recomm3 &nbsp;|&nbsp;   recomm4
 ### &nbsp;&nbsp;&nbsp;&nbsp;   recomm5 &nbsp;|&nbsp;   recomm6  
