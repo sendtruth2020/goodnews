@@ -75,7 +75,7 @@ while read line; do
 done < /root/page_count/goodnews.hot
 
 sed -n '1,4p' $hot_page > tmp.md
-echo "#### [油管热门频道 翻墙必看视频 新闻](http://136.244.76.125:81/youtube.html)" >> tmp.md
+echo "#### [油管热门频道 翻墙必看视频 新闻](http://152.32.216.214:81/youtube.html)" >> tmp.md
 sed -n '5,$p' $hot_page >> tmp.md
 mv tmp.md $hot_page
 
