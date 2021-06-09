@@ -56,7 +56,7 @@ while read line; do
 	key=$(echo $line | cut -d',' -f1)
 	name=$(echo $line | cut -d',' -f2)
 	sed -n '1,6p' ../indexes/$key.md > tmp.md
-	echo "#### [油管热门频道 翻墙必看视频 新闻](http://45.76.128.246:81/youtube.html)" >> tmp.md
+	echo "#### [油管热门频道 翻墙必看视频 新闻](http://95.179.200.226:81/youtube.html)" >> tmp.md
 	sed -n '6,$p' ../indexes/$key.md >> tmp.md
 	echo "<img src='http://gfw-breaker.win/goodnews/indexes/$key.md' width='0px' height='0px'/>" >> tmp.md
 	mv tmp.md ../indexes/$name.md
